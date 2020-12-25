@@ -9,10 +9,10 @@ public class Solution {
     }
 
     /**
-     * Returns string with the day-of-week to represent, or 'Not exist'.
+     * Returns string of the day-of-week to represent, or 'Not exist'.
      * @param dayOfWeek the day-of-week to represent, from 1 (Monday) to 7 (Sunday)
      * @return the name of day-of-week
-     * @deprecated more better using {@link DayOfWeek#of(int)}
+     * @deprecated better using {@link DayOfWeek#of(int)}
      */
     @Deprecated
     public static String getDayOfWeek(int dayOfWeek) {
@@ -30,6 +30,10 @@ public class Solution {
 
     private static final Random random = new Random();
 
+    /**
+     * Tests method {@link Solution#getDayOfWeek(int)}, prints processed to console.
+     * @param countOfTests amount of tests
+     */
     private static void testGetDayOfWeek(int countOfTests){
         for (int i = 0; i < countOfTests; i++){
             int randomNumber = random.nextInt(14);

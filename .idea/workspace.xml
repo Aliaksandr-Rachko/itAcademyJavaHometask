@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bd35b9e-ea73-4a67-9cb1-675d3a4b803c" name="Default Changelist" comment="" />
+    <list default="true" id="1bd35b9e-ea73-4a67-9cb1-675d3a4b803c" name="Default Changelist" comment="I done all task first homework">
+      <change afterPath="$PROJECT_DIR$/src/by/epam/hometask/tasks01/task0103/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epam/hometask/tasks01/task0104/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/itAcademyJavaHometask/by/epam/hometask/tasks01/task0101/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/epam/hometask/tasks01/task0101/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/hometask/tasks01/task0101/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/epam/hometask/tasks01/task0102/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/hometask/tasks01/task0102/Solution.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +32,13 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Aliaksandr-Rachko/itAcademyJavaHometask" />
+      </set>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -38,20 +54,39 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.epam.hometask.tasks01.task0101.Solution" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\Work\itAcademyJavaHometask" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Solution (1)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.epam.hometask.tasks01.task0103.Solution" />
       <module name="itAcademyJavaHometask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.epam.hometask.tasks01.task0101.*" />
+          <option name="PATTERN" value="by.epam.hometask.tasks01.task0103.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.epam.hometask.tasks01.task0104.Solution" />
+      <module name="itAcademyJavaHometask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.epam.hometask.tasks01.task0104.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,11 +96,16 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1bd35b9e-ea73-4a67-9cb1-675d3a4b803c" name="Default Changelist" comment="" />
@@ -84,46 +124,24 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="I done all task first homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="I done all task first homework" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="38" y="6" key="#Project_Structure" timestamp="1608756050191">
-      <screen x="0" y="0" width="1117" height="864" />
-    </state>
-    <state x="38" y="6" key="#Project_Structure/0.0.1117.864@0.0.1117.864" timestamp="1608756050191" />
-    <state x="167" y="27" key="CommitChangelistDialog2" timestamp="1608815940189">
-      <screen x="0" y="0" width="1117" height="864" />
-    </state>
-    <state x="167" y="27" key="CommitChangelistDialog2/0.0.1117.864@0.0.1117.864" timestamp="1608815940189" />
-    <state x="338" y="173" key="FileChooserDialogImpl" timestamp="1608815737356">
-      <screen x="0" y="0" width="1117" height="864" />
-    </state>
-    <state x="338" y="173" key="FileChooserDialogImpl/0.0.1117.864@0.0.1117.864" timestamp="1608815737356" />
-    <state width="1074" height="224" key="GridCell.Tab.0.bottom" timestamp="1608760609818">
-      <screen x="0" y="0" width="1117" height="864" />
-    </state>
-    <state width="1074" height="224" key="GridCell.Tab.0.bottom/0.0.1117.864@0.0.1117.864" timestamp="1608760609818" />
-    <state width="1074" height="224" key="GridCell.Tab.0.center" timestamp="1608760609818">
-      <screen x="0" y="0" width="1117" height="864" />
-    </state>
-    <state width="1074" height="224" key="GridCell.Tab.0.center/0.0.1117.864@0.0.1117.864" timestamp="1608760609818" />
-    <state width="1074" height="224" key="GridCell.Tab.0.left" timestamp="1608760609817">
-      <screen x="0" y="0" width="1117" height="864" />
-    </state>
-    <state width="1074" height="224" key="GridCell.Tab.0.left/0.0.1117.864@0.0.1117.864" timestamp="1608760609817" />
-    <state width="1074" height="224" key="GridCell.Tab.0.right" timestamp="1608760609818">
-      <screen x="0" y="0" width="1117" height="864" />
-    </state>
-    <state width="1074" height="224" key="GridCell.Tab.0.right/0.0.1117.864@0.0.1117.864" timestamp="1608760609818" />
-    <state x="41" y="74" key="SettingsEditor" timestamp="1608815844102">
-      <screen x="0" y="0" width="1117" height="864" />
-    </state>
-    <state x="41" y="74" key="SettingsEditor/0.0.1117.864@0.0.1117.864" timestamp="1608815844102" />
-    <state x="150" y="164" key="Vcs.Push.Dialog.v2" timestamp="1608816015701">
-      <screen x="0" y="0" width="1117" height="864" />
-    </state>
-    <state x="150" y="164" key="Vcs.Push.Dialog.v2/0.0.1117.864@0.0.1117.864" timestamp="1608816015701" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
