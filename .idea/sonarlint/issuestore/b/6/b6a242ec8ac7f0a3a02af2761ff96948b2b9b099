@@ -1,10 +1,10 @@
 
-e
-java:S1123"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš8Å°ÒŒé.
 Z	java:S106$"9Replace this use of System.out or System.err by a logger.(‚¥Þ‘ÿÿÿÿÿ8Ä÷ÌŒé.
-s
-java:S3457$"Q%n should be used in place of \n to produce the platform-specific line separator.(‚¥Þ‘ÿÿÿÿÿ8Ä÷ÌŒé.
 Q
 java:S1874&"4Remove this use of "getDayOfWeek"; it is deprecated.(ÔƒÔÕ8ŽþÑŒé.
 W
 java:S1133"5Do not forget to remove this deprecated code someday.(ñÿ¦®ÿÿÿÿÿ8ŽþÑŒé.
+s
+java:S3457$"Q%n should be used in place of \n to produce the platform-specific line separator.(‚¥Þ‘ÿÿÿÿÿ8Ä÷ÌŒé.
+e
+java:S1123"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš8Å°ÒŒé.

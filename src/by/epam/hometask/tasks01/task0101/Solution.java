@@ -4,17 +4,18 @@ import java.time.DayOfWeek;
 import java.util.Random;
 
 public class Solution {
+    private static final int COUNT_OF_TESTS = 10;
+
     public static void main(String[] args) {
-        testGetDayOfWeek(8);
+        testGetDayOfWeek();
     }
 
     /**
      * Returns string of the day-of-week to represent, or 'Not exist'.
+     * Better using {@link DayOfWeek#of(int)}.
      * @param dayOfWeek the day-of-week to represent, from 1 (Monday) to 7 (Sunday)
      * @return the name of day-of-week
-     * @deprecated better using {@link DayOfWeek#of(int)}
      */
-    @Deprecated
     public static String getDayOfWeek(int dayOfWeek) {
         switch (dayOfWeek) {
             case 1: return "Monday";
@@ -32,10 +33,9 @@ public class Solution {
 
     /**
      * Tests method {@link Solution#getDayOfWeek(int)}, prints processed to console.
-     * @param countOfTests amount of tests
      */
-    private static void testGetDayOfWeek(int countOfTests){
-        for (int i = 0; i < countOfTests; i++){
+    private static void testGetDayOfWeek(){
+        for (int i = 0; i < Solution.COUNT_OF_TESTS; i++){
             int randomNumber = random.nextInt(14);
             System.out.printf("Day of week '%d' is %s\n",
                     randomNumber,

@@ -7,3 +7,7 @@ c
 3src/by/epam/hometask/tasks01/task0101/Solution.java,b\6\b6a242ec8ac7f0a3a02af2761ff96948b2b9b099
 c
 3src/by/epam/hometask/tasks01/task0102/Solution.java,c\e\ce201ca3000d94bfda769dacc30dea36c5e26af5
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+x
+Hout/production/itAcademyJavaHometask/by/epam/hometask/tasks01/README.txt,b\f\bfb649e1a6e663c29745457104afc879a50f321c

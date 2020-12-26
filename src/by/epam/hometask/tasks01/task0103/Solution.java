@@ -22,7 +22,13 @@ public class Solution {
      * @return the larger of a, b and c
      */
     public static int min(int a, int b, int c) {
-        return (a <= b && a <= c) ? a : (b <= a && b <= c) ? b : c;
+        if (a <= b && a <= c) {
+            return a;
+        } else if (b <= a && b <= c){
+            return b;
+        } else {
+            return c;
+        }
     }
 
     /**
@@ -33,7 +39,13 @@ public class Solution {
      * @return the smaller of a, b and c
      */
     public static int max(int a, int b, int c){
-        return (a >= b && a >= c) ? a : (b >= a && b >= c) ? b : c;
+        if (a >= b && a >= c){
+            return a;
+        } else if (b >= a && b >= c){
+            return b;
+        } else {
+            return c;
+        }
     }
 
     /**
@@ -41,7 +53,7 @@ public class Solution {
      * @param numbers numbers
      * @return the arithmetics average of givens numbers
      */
-    public static double arithmeticsAverage(int ...numbers){
+    public static double arithmeticsAverage(int ... numbers){
         if (numbers.length == 0) return 0;
         int result = 0;
         for (int n : numbers){

@@ -15,7 +15,7 @@ public class Solution {
      * @param firstNumber an argument
      * @param secondNumber another argument
      * @param usersNumber givens number
-     * @return the string with interval
+     * @return the string describes interval
      */
     public static String getInterval(int firstNumber, int secondNumber, int usersNumber){
         String result;
@@ -31,13 +31,20 @@ public class Solution {
 
     private static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
+    /**
+     * Reads the number from console.
+     * @return the int number
+     */
     private static int getInteger(){
         try {
             return Integer.parseInt(br.readLine());
-        } catch (IOException e) {
+        } catch (NumberFormatException e) {
             System.out.println("It don't number!");
+            return getInteger();
+        } catch (IOException e) {
+            e.printStackTrace();
+            return getInteger();
         }
-        return getInteger();
     }
 
     public static void printIntervalForUsersNumber(int firstNumber, int secondNumber){
