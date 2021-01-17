@@ -3,6 +3,10 @@ package by.epam.hometask.tasks01.task0101;
 import java.time.DayOfWeek;
 import java.util.Random;
 
+/*
+ * 1. Задано целое число. Определить, какой день недели соответствует заданному числу и вывести в консоль.
+ *    Если ни одному - вывести соответствующее сообщение.
+ */
 public class Solution {
     private static final int COUNT_OF_TESTS = 10;
 

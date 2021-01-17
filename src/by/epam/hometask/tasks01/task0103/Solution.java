@@ -1,5 +1,9 @@
 package by.epam.hometask.tasks01.task0103;
 
+/*
+ * 3. Заданы три числа. Найти среди них минимальное, максимальное и среднее арифметическое и вывести.
+ *    Без использования дополнительных библиотек, только операторы сравнения и логические.
+ */
 public class Solution {
     public static void main(String[] args) {
         System.out.println(min(1,5,6)); // 1

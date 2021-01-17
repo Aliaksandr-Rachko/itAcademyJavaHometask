@@ -1,5 +1,8 @@
 package by.epam.hometask.tasks01.task0104;
 
+/*
+ * 4. Задано число. Определить, близко ли к нему другое введенное число (в пределах 10%).
+ */
 public class Solution {
     public static void main(String[] args) {
         System.out.println(isNear(10, 2)); // false

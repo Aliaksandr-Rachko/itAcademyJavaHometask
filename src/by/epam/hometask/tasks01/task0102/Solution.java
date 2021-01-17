@@ -4,6 +4,10 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/*
+ * 2. Даны два целых числа, задающие три диапазона чисел.
+ *    Определить, какому диапазону принадлежит введенное пользователем число.
+ */
 public class Solution {
     public static void main(String[] args) {
         printIntervalForUsersNumber(47, 58);
