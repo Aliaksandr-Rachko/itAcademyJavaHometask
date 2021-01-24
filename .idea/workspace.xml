@@ -11,26 +11,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd35b9e-ea73-4a67-9cb1-675d3a4b803c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by/epam/hometask/tasks02/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/epam/hometask/tasks02/task0201/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/epam/hometask/tasks02/task0202/ConsoleHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/epam/hometask/tasks02/task0202/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/epam/hometask/tasks02/task0203/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/epam/hometask/tasks02/task0204/ConsoleHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/epam/hometask/tasks02/task0204/GuessingNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/epam/hometask/tasks02/task0204/RandomGuessNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/epam/hometask/tasks02/task0204/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/epam/hometask/tasks02/task0204/YesOrNoGuessingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b6a242ec8ac7f0a3a02af2761ff96948b2b9b099" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b6a242ec8ac7f0a3a02af2761ff96948b2b9b099" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ce201ca3000d94bfda769dacc30dea36c5e26af5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ce201ca3000d94bfda769dacc30dea36c5e26af5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epam/hometask/tasks03/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epam/hometask/tasks03/task0301/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epam/hometask/tasks03/task0302/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epam/hometask/tasks03/task0303/ConsoleHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epam/hometask/tasks03/task0303/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epam/hometask/tasks03/tasl0304/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itAcademyJavaHometask.iml" beforeDir="false" afterPath="$PROJECT_DIR$/itAcademyJavaHometask.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/epam/hometask/tasks01/task0101/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/hometask/tasks01/task0101/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/epam/hometask/tasks01/task0102/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/hometask/tasks01/task0102/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/epam/hometask/tasks01/task0103/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/hometask/tasks01/task0103/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/epam/hometask/tasks01/task0104/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epam/hometask/tasks01/task0104/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,26 +68,18 @@
     <property name="project.structure.side.proportion" value="0.31686747" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="by.epam.hometask.tasks03.task0303" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.epam.hometask.tasks01.task0102.Solution" />
+      <option name="MAIN_CLASS_NAME" value="by.epam.hometask.tasks03.tasl0304.Solution" />
       <module name="itAcademyJavaHometask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.epam.hometask.tasks01.task0102.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.epam.hometask.tasks01.task0103.Solution" />
-      <module name="itAcademyJavaHometask" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.epam.hometask.tasks01.task0103.*" />
+          <option name="PATTERN" value="by.epam.hometask.tasks03.tasl0304.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +100,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.epam.hometask.tasks01.task0101.Solution" />
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.epam.hometask.tasks03.task0302.Solution" />
       <module name="itAcademyJavaHometask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.epam.hometask.tasks01.task0101.*" />
+          <option name="PATTERN" value="by.epam.hometask.tasks03.task0302.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.epam.hometask.tasks03.task0301.Solution" />
+      <module name="itAcademyJavaHometask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.epam.hometask.tasks03.task0301.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.epam.hometask.tasks03.task0303.Solution" />
+      <module name="itAcademyJavaHometask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.epam.hometask.tasks03.task0303.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,10 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (5)" />
+        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608982340881</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Home tasks 2">
+      <created>1610874502660</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610874502660</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,12 +201,45 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="Home tasks 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Home tasks 1" />
+    <MESSAGE value="Home tasks 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Home tasks 2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="176" y="18" key="CommitChangelistDialog2" timestamp="1610874501036">
+      <screen x="0" y="0" width="1117" height="864" />
+    </state>
+    <state x="176" y="18" key="CommitChangelistDialog2/0.0.1117.864@0.0.1117.864" timestamp="1610874501036" />
     <state x="338" y="186" key="FileChooserDialogImpl" timestamp="1609177108113">
       <screen x="0" y="0" width="1117" height="864" />
     </state>
     <state x="338" y="186" key="FileChooserDialogImpl/0.0.1117.864@0.0.1117.864" timestamp="1609177108113" />
+    <state x="422" y="344" key="Github.Dialog.Accounts.Choose" timestamp="1610874516426">
+      <screen x="0" y="0" width="1117" height="864" />
+    </state>
+    <state x="422" y="344" key="Github.Dialog.Accounts.Choose/0.0.1117.864@0.0.1117.864" timestamp="1610874516426" />
+    <state width="1074" height="224" key="GridCell.Tab.0.bottom" timestamp="1611518574639">
+      <screen x="0" y="0" width="1117" height="864" />
+    </state>
+    <state width="1074" height="224" key="GridCell.Tab.0.bottom/0.0.1117.864@0.0.1117.864" timestamp="1611518574639" />
+    <state width="1074" height="224" key="GridCell.Tab.0.center" timestamp="1611518574639">
+      <screen x="0" y="0" width="1117" height="864" />
+    </state>
+    <state width="1074" height="224" key="GridCell.Tab.0.center/0.0.1117.864@0.0.1117.864" timestamp="1611518574639" />
+    <state width="1074" height="224" key="GridCell.Tab.0.left" timestamp="1611518574639">
+      <screen x="0" y="0" width="1117" height="864" />
+    </state>
+    <state width="1074" height="224" key="GridCell.Tab.0.left/0.0.1117.864@0.0.1117.864" timestamp="1611518574639" />
+    <state width="1074" height="224" key="GridCell.Tab.0.right" timestamp="1611518574639">
+      <screen x="0" y="0" width="1117" height="864" />
+    </state>
+    <state width="1074" height="224" key="GridCell.Tab.0.right/0.0.1117.864@0.0.1117.864" timestamp="1611518574639" />
+    <state x="150" y="164" key="Vcs.Push.Dialog.v2" timestamp="1610874510460">
+      <screen x="0" y="0" width="1117" height="864" />
+    </state>
+    <state x="150" y="164" key="Vcs.Push.Dialog.v2/0.0.1117.864@0.0.1117.864" timestamp="1610874510460" />
+    <state x="221" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1611516999838">
+      <screen x="0" y="0" width="1117" height="864" />
+    </state>
+    <state x="221" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1117.864@0.0.1117.864" timestamp="1611516999838" />
   </component>
 </project>
